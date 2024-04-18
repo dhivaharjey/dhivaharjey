@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working  on Full Stack Development<br>- 📚 I'm currently learning MERN Stack.<br>- 📫 How to reach me <a href="dhivahar19399@gmail.com">dhivahar19399@gmail.com</a></p>
+<p align="left">- 🔭 I’m working  on Full Stack Development<br>- 📚 I'm currently learning MERN Stack.<br>- 📫 How to reach me <a href="[dhivahar19399@gmail.com](https://mail.google.com/mail/u/0/#inbox)">dhivahar19399@gmail.com</a></p>
 
 ###
 
