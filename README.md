@@ -1,5 +1,6 @@
 <div align="center">
- ![tech-meeting-flatlay](https://github.com/user-attachments/assets/63d05991-8c05-40b8-8cef-ea50bad5f2d3)
+ <img src="https://github.com/user-attachments/assets/63d05991-8c05-40b8-8cef-ea50bad5f2d3"
+/> 
 </div>
 
 ###
