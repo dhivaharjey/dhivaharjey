@@ -13,16 +13,17 @@
 
 ###
 
-<h3 align="left">👩‍💻  A Full Stack Developer proficient in front-end and back-end technologies. Skilled in designing, developing, and deploying web applications to meet client needs.</h3>
+<h3 align="left">👩‍💻  A MERN Stack Developer proficient in front-end and back-end technologies. A passionate MERN Stack Developer with experience in building full-stack web applications. I specialize in creating scalable, efficient, and user-friendly applications using MongoDB, Express.js, React.js, and Node.js.</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">- 🔭 I’m working  on Full Stack Development<br>- 📚 I'm currently learning MERN Stack.<br>- 📫 How to reach me dhivahar19399@gmail.com</h3>
+<h3 align="left">- 🔭 I’m working  on MERN Stack Development<br>- 📫 How to reach me dhivahar19399@gmail.com</h3>
 
 ###
-
+<h3 align="left"> <a href="https://dhivahar-portfolio.netlify.app>My Portfolio </a> </h3>
+###
 <h3 align="left">🤖 Tech Skills :</h3>
 
 ###
