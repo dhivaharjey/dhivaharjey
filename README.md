@@ -3,9 +3,7 @@
 /> 
 </div>
 
-<div align="center">
-  <img height="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg"  />
-</div>
+
 
 ###
 
@@ -23,6 +21,7 @@
 
 ###
 <h3 align="left"> <a href="https://dhivahar-portfolio.netlify.app>My Portfolio </a> </h3>
+                   
 ###
 <h3 align="left">🤖 Tech Skills :</h3>
 
