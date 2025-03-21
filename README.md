@@ -17,11 +17,9 @@
 
 <br clear="both">
 
-<h3 align="left">- 🔭 I’m working  on MERN Stack Development<br>- 📫 How to reach me dhivahar19399@gmail.com</h3>
-<h3 align="left">- 🔭 I’m working  on MERN Stack Development<br>- 📫 How to reach me dhivahar19399@gmail.com</h3>
+<h3 align="left">- 🔭 I’m working  on MERN Stack Development<br>- 📫 How to reach me dhivahar19399@gmail.com <br>--<a href="https://dhivahar-portfolio.netlify.app>My Portfolio </a></h3>
 
-<h3 align="left">- <a href="https://dhivahar-portfolio.netlify.app>My Portfolio </a> </h3>
-                   
+
 ###
 <h3 align="left">🤖 Tech Skills :</h3>
 
