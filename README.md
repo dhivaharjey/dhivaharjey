@@ -12,7 +12,7 @@
 ###
 
 <h3 align="left">👩‍💻  A MERN Stack Developer proficient in front-end and back-end technologies. A passionate MERN Stack Developer with experience in building full-stack web applications. I specialize in creating scalable, efficient, and user-friendly applications using MongoDB, Express.js, React.js, and Node.js.</h3>
-
+<h3><a href="https://dhivahar-portfolio.netlify.app>My Portfolio</a></h3>
 ###
 
 <br clear="both">
