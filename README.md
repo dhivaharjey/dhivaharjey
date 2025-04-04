@@ -1,8 +1,8 @@
 <div align="center">
 <!--   <img src="https://github.com/user-attachments/assets/63d05991-8c05-40b8-8cef-ea50bad5f2d3" alt="Profile Picture" /> -->
-  <img src="https://github.com/user-attachments/assets/d62c57ea-fe64-40e3-89a0-09b879b64856" alt="Profile Picture" />
+  <img src="https://github.com/user-attachments/assets/1c746bea-c390-4ee2-be94-093b3d87a26a" alt="Profile Picture" />
 </div>
-
+<!-- [Image](https://github.com/user-attachments/assets/1c746bea-c390-4ee2-be94-093b3d87a26a) -->
 ###
 
 <h1 align="center">Hi.... 👋.. I'm DHIVAHAR J</h1>
